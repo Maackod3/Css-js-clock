@@ -1,0 +1,1 @@
+A nice and simple clock made with pure CSS and vanilla JavaScript.
